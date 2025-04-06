@@ -85,6 +85,8 @@ APIs for modernizing legacy factory systems by generating REST APIs for existing
 | ---- | ----------- | --------- |
 | DreamFactory | Platform for generating secure REST APIs for legacy factory databases (e.g., SQL, NoSQL). | [Link](https://www.dreamfactory.com/) |
 | PostgREST | Open-source tool to turn PostgreSQL databases into RESTful APIs for factory data. | [Link](https://postgrest.org/) |
+| FastAPI |  Modern fast (high-performance) web framework for building APIs with Python based on standard Python type hints. | [Link](www.fastapi.com/) | 
+
 
 ## Contributing
 We'd love your help to grow this list! To contribute:
